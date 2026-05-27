@@ -22,8 +22,9 @@ I sit between business teams, stakeholders, vendors, analytics teams, developers
 | [analytics-qa-toolkit](https://github.com/AndrejGlavnik/analytics-qa-toolkit) | Dashboard export QA for missing dates, null KPIs, duplicates, spikes and mapping issues. |
 | [datorama-stream-validator](https://github.com/AndrejGlavnik/datorama-stream-validator) | Datorama-style stream naming and taxonomy governance. |
 | [ecommerce-kpi-framework](https://github.com/AndrejGlavnik/ecommerce-kpi-framework) | KPI definitions, calculated metric logic and sample reporting outputs. |
-| [Axium-AI](https://github.com/AndrejGlavnik/Axium-AI) | Analytics knowledge, data catalog and AI-assisted context exploration MVP. |
-| [Portfolio website](https://github.com/AndrejGlavnik/AndrejGlavnik.github.io) | Conversion-focused public presence for analytics delivery work. |
+| [ga4-tracking-validation-framework](https://github.com/AndrejGlavnik/ga4-tracking-validation-framework) | GA4 event taxonomy, conversion flag, ecommerce parameter and UTM QA workflow. |
+| [vendor-handover-tracker](https://github.com/AndrejGlavnik/vendor-handover-tracker) | Analytics vendor handover register for owners, access gaps, dependencies, risks and next actions. |
+| [dashboard-governance-playbook](https://github.com/AndrejGlavnik/dashboard-governance-playbook) | Dashboard governance templates for KPI definitions, filter logic, QA evidence and stakeholder sign-off. |
 
 ## How I Think
 
